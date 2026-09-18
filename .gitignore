@@ -1,0 +1,32 @@
+# ROS 2 / colcon
+build/
+install/
+log/
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary / backup files
+*.backup
+*.bak
+*.tmp
+*~
+
+# Logs
+*.log
